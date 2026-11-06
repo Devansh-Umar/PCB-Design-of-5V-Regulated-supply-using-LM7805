@@ -2,11 +2,11 @@
 
 I wanted to learn PCB designing to understand how an idea can eventually be converted into a physical board.
 
-Initially, I thought of starting with my last **[BC547 Logic Gates Project](Digital-Logic-Gates-Using-Discrete-BC547-Transistors)**, which involved 23 transistors. But then I realised that making my first PCB with 23 transistors might turn into a whole disaster! 😂
+Initially, I thought of starting with my last **[BC547 Logic Gates Project](https://github.com/Devansh-Umar/Digital-Logic-Gates-Using-Discrete-BC547-Transistors)**, which involved 23 transistors. But then I realised that making my first PCB with 23 transistors might turn into a whole disaster! 😂
 
 So, I thought, why not start small?
 
-That's why, I decided to extend my previous **[Regulated Power Supply Project](5V-Regulated-Power-Supply-using-LM7805 )**. First, I simulated the circuit, then built it physically using a breadboard, and now I've taken it one step further by designing its PCB.
+That's why, I decided to extend my previous **[Regulated Power Supply Project](https://github.com/Devansh-Umar/5V-Regulated-Power-Supply-using-LM7805).** First, I simulated the circuit, then built it physically using a breadboard, and now I've taken it one step further by designing its PCB.
 
 ## About the Project
 
