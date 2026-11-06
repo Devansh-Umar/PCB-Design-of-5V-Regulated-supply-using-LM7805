@@ -2,11 +2,11 @@
 
 I wanted to learn PCB designing to understand how an idea can eventually be converted into a physical board.
 
-Initially, I thought of starting with my previous **BC547 Logic Gates project**, which involved 23 transistors. But then I realised that making my first PCB with 23 transistors might turn into a whole disaster! 😂
+Initially, I thought of starting with my last **[BC547 Logic Gates Project](Digital-Logic-Gates-Using-Discrete-BC547-Transistors)**, which involved 23 transistors. But then I realised that making my first PCB with 23 transistors might turn into a whole disaster! 😂
 
 So, I thought, why not start small?
 
-That's why, I decided to extend my previous power supply project. First, I simulated the circuit, then built it physically using a breadboard, and now I've taken it one step further by designing its PCB.
+That's why, I decided to extend my previous **[Regulated Power Supply Project](5V-Regulated-Power-Supply-using-LM7805 )**. First, I simulated the circuit, then built it physically using a breadboard, and now I've taken it one step further by designing its PCB.
 
 ## About the Project
 
@@ -65,8 +65,12 @@ After three complete restarts using KiCad's Global Deletions option to clear the
 
 The biggest takeaway was understanding that drawing a circuit and designing a PCB for that circuit are two quite different experiences.
 
-## A Little Preview 🎬
+## A Little Preview 
 
 Two full days of designing, routing, restarting and troubleshooting, compressed into just **44 seconds!**
 
 That's the whole journey. 😁
+
+[Just Hit Me](PCBDesign(7805).mp4)
+
+## If you find this project useful, a star ⭐ on my repository would be memorable for me.
