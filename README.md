@@ -49,10 +49,12 @@ After three complete restarts using KiCad's Global Deletions option to clear the
 
 ## Repository Contents
 
-- `KiCad_Project/` – Project, schematic and PCB files.
-- `Gerber_Files/` – Gerber and drill files.
-- `Images/` – Schematic, PCB layout and 3D views.
-- `Video/` – Short PCB design walkthrough.
+- [Gerber Files](Gerber_Files)
+- [Drill Files](Drill_Files)
+- [Schematic Views](Schematics)
+- [Bill of Materials](Bill_of_Materials)
+- [Final Wired View](Final_Routed_Tracks.png)
+- [Both side PCB View](Front_Back_Board_View)
 
 ## What I Learned
 
