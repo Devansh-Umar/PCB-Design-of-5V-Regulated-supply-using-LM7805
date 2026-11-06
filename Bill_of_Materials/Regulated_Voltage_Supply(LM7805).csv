@@ -1,0 +1,7 @@
+Reference,Value,Datasheet,Footprint,Qty,DNP,Description
+"C1,C3",C_Small,,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,2,,"Unpolarized capacitor, small symbol"
+C2,C_Polarized_Small_US,,Capacitor_THT:CP_Radial_D10.0mm_P2.50mm,1,,"Polarized capacitor, small US symbol"
+"D1,D2,D3,D4",1N4007,http://www.vishay.com/docs/88503/1n4001.pdf,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,4,,"1000V 1A General Purpose Rectifier Diode, DO-41"
+"J1,J2",Screw_Terminal_01x02,,TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm,2,,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+T1,Transformer_1P_1S,,Transformer_THT:Transformer_Breve_TEZ-22x24,1,,"Transformer, single primary, single secondary"
+U1,LM7805_TO220,https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF,Package_TO_SOT_THT:TO-220-3_Vertical,1,,"Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220"
